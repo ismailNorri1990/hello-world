@@ -3,8 +3,8 @@
     <h1 style="color:red;">New user Register for DevOps Learning</h1>
     <p>Create an account.</p>
     <hr>
-    <br> 
-    <label for="Name"><b>Enter Name</b></label>
+     
+<label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
@@ -30,8 +30,8 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
-   <h1> Thankyou, Happy Learning </h1>
+<br>
+<h1> <strong>Thankyou, Happy Learning</strong> </h1>
 
   
 </form>
